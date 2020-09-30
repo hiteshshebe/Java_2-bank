@@ -14,7 +14,7 @@ public class User {
 	}
 	@Override
 	public String toString() {
-		return "";
+		return ""User [id=" + id + ", email=" + email + ", name=" + name + "];
 	}
 	
 	  public boolean equals(Object obj) 
